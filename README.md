@@ -1,0 +1,11 @@
+HOW TO USE
+(ONLINE SUPERMARKET MANAGEMENT SYSTEM)
+				
+	
+>START XAMMP SERVER (localhost/phpMyadmin)
+>IMPORT DATABASE(DB Name : foodcity) IN XAMPP SERVER (FOLDER PATH : Foodcity/Database/foodcity.sql)
+>Copy Foodcity Folder To (C:Xampp/htdocs/)
+
+	
+>CUSTOMER VIEW - > localhost/foodcity (SIGN IN USER: 'aniqameed078@gmail.com', Password : '123')
+>ADMIN VIEW - > localhost/foodcity/admin (SIGN IN ADMIN: 'ani', Password : '1234')
