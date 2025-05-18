@@ -99,8 +99,8 @@
 	<br>
 <div class="copy-right">
 		<div class="container">
-			<p>© 2019 H2 Foodcity. All rights reserved | Design by
-				<a href="http://idelsoft.com"> IdelSoft</a>
+			<p>© 2025 H2 Foodcity. All rights reserved | Design by
+				<a href="http://anisoft.com"> AniSoft</a>
 			</p>
 		</div>
 	</div>

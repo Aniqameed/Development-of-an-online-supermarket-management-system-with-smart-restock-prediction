@@ -31,14 +31,8 @@ include('dbcon.php');
 			date_default_timezone_set('Asia/Colombo');
 			$time = date("h:i:s A");
 			
-									 
+			mysqli_query($conn,"INSERT INTO feedback VALUES ('$id', '$cus_id', '$pro_ID', '$mes', '$date', '$time')");
 
-			
-
-			mysql_query("INSERT INTO feedback VALUES ('$id', '$cus_id', '$pro_ID', '$mes', '$date', '$time')")or die(mysql_error());
-
-
-			
 			?>
 			<script>
 			alert('Feedback Sent Successfully');
